@@ -37,4 +37,4 @@ build/
 ### Mac OS ###
 .DS_Store
 
-env.properties
+.env.properties
