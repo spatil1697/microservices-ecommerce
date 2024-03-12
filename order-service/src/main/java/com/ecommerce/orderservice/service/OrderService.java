@@ -1,9 +1,5 @@
 package com.ecommerce.orderservice.service;
 
-
-import com.ecommerce.discoveryserver.orderService.dto.*;
-import com.ecommerce.discoveryserver.orderService.model.*;
-import com.ecommerce.discoveryserver.orderService.repository.*;
 import com.ecommerce.orderservice.dto.*;
 import com.ecommerce.orderservice.model.*;
 import com.ecommerce.orderservice.repository.*;

@@ -1,7 +1,6 @@
 package com.ecommerce.inventoryservice.service;
 
-import com.ecommerce.discoveryserver.inventoryservice.dto.*;
-import com.ecommerce.discoveryserver.inventoryservice.repository.*;
+
 import com.ecommerce.inventoryservice.dto.*;
 import com.ecommerce.inventoryservice.repository.*;
 import lombok.*;

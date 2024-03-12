@@ -1,7 +1,6 @@
 package com.ecommerce.orderservice.controller;
 
-import com.ecommerce.discoveryserver.orderService.dto.*;
-import com.ecommerce.discoveryserver.orderService.service.*;
+
 import com.ecommerce.orderservice.dto.*;
 import com.ecommerce.orderservice.service.*;
 import lombok.*;

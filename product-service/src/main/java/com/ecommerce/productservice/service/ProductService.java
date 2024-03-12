@@ -1,8 +1,5 @@
 package com.ecommerce.productservice.service;
 
-import com.ecommerce.discoveryserver.productservice.dto.*;
-import com.ecommerce.discoveryserver.productservice.model.*;
-import com.ecommerce.discoveryserver.productservice.repository.*;
 import com.ecommerce.productservice.dto.*;
 import com.ecommerce.productservice.model.*;
 import com.ecommerce.productservice.repository.*;

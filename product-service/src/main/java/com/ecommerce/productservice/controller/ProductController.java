@@ -1,7 +1,6 @@
 package com.ecommerce.productservice.controller;
 
-import com.ecommerce.discoveryserver.productservice.dto.*;
-import com.ecommerce.discoveryserver.productservice.service.*;
+
 import com.ecommerce.productservice.dto.*;
 import com.ecommerce.productservice.service.*;
 import lombok.*;
