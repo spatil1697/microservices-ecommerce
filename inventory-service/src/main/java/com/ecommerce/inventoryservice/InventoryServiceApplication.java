@@ -1,5 +1,6 @@
 package com.ecommerce.inventoryservice;
 
+
 import com.ecommerce.inventoryservice.model.*;
 import com.ecommerce.inventoryservice.repository.*;
 import org.springframework.boot.*;

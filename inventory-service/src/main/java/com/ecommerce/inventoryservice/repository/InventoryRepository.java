@@ -1,6 +1,5 @@
 package com.ecommerce.inventoryservice.repository;
 
-
 import com.ecommerce.inventoryservice.model.*;
 import org.springframework.data.jpa.repository.*;
 

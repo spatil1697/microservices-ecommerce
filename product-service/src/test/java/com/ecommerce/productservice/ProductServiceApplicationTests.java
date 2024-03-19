@@ -1,5 +1,7 @@
 package com.ecommerce.productservice;
 
+import com.ecommerce.apigateway.productservice.dto.*;
+import com.ecommerce.apigateway.productservice.repository.*;
 import com.ecommerce.discoveryserver.productservice.dto.*;
 import com.ecommerce.discoveryserver.productservice.repository.*;
 import com.ecommerce.productservice.dto.*;
